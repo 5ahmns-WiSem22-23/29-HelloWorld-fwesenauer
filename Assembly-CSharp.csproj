@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3B6FC82F-5226-158B-FCF1-F0C161EE5B91}</ProjectGuid>
+    <ProjectGuid>{51F306EE-F0A2-6249-46BA-8496123474DC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,9 +53,12 @@
     <UnityVersion>2020.3.18f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\MyGame\Scripts\HelloWorld.cs" />
     <Compile Include="Assets\MyGame\Scripts\HelloMethoden.cs" />
     <Compile Include="Assets\MyGame\Scripts\movement.cs" />
+    <Compile Include="Assets\MyGame\Scripts\HelloWorld.cs" />
+    <Compile Include="Assets\MyGame\Scripts\HelloOperatoren.cs" />
+    <Compile Include="Assets\MyGame\Scripts\HelloIf.cs" />
+    <Compile Include="Assets\MyGame\Scripts\HelloVerzweigung.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
