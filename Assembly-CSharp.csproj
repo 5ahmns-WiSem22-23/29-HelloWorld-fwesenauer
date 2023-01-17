@@ -53,12 +53,13 @@
     <UnityVersion>2020.3.18f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\MyGame\Scripts\HelloVerzweigung.cs" />
     <Compile Include="Assets\MyGame\Scripts\HelloMethoden.cs" />
     <Compile Include="Assets\MyGame\Scripts\movement.cs" />
     <Compile Include="Assets\MyGame\Scripts\HelloWorld.cs" />
-    <Compile Include="Assets\MyGame\Scripts\HelloOperatoren.cs" />
     <Compile Include="Assets\MyGame\Scripts\HelloIf.cs" />
-    <Compile Include="Assets\MyGame\Scripts\HelloVerzweigung.cs" />
+    <Compile Include="Assets\MyGame\Scripts\HelloSchleifen.cs" />
+    <Compile Include="Assets\MyGame\Scripts\HelloOperatoren.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
